@@ -29,7 +29,7 @@ A personal full‑stack project inspired by Pinterest, built with PHP on the bac
 - User registration and authentication
 - Customizable profiles
 - Create, like and save posts
-- Search and explore by category
+- Edit or delete posts
 
 Tech: PHP · HTML · CSS · JavaScript
 
