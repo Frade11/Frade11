@@ -24,7 +24,7 @@ I’m a junior frontend developer based in Chișinău. I focus on simple, respon
 
 ## Featured projects
 
-### Pinto — https://github.com/Frade11/Pinto  
+### Pinto — https://github.com/Frade11/Pinto , http://pinto.wuaze.com 
 A personal full‑stack project inspired by Pinterest, built with PHP on the backend and standard web technologies on the frontend. Features include:
 - User registration and authentication
 - Customizable profiles
